@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/rjmendezl" target="blank"><img src="https://img.shields.io/twitter/follow/rjmendezl?logo=twitter&style=for-the-badge" alt="rjmendezl" /></a> </p>
 
-- 🔭 I’m currently working on **WillDom**
+- 🔭 I’m currently working at **WillDom**
 
 - 🌱 I’m currently learning **PHP - Laravel, Angular and Docker**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Games and music**
 
 - 📫 How to reach me **ricardojmendezl20015@gmail.com**
 
