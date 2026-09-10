@@ -25,16 +25,6 @@ I have experience building APIs, data-intensive applications, and distributed sy
 
 - 💬 Ask me about **Games and music**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/rjmendezl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-m%c3%a9ndez-344431250" height="30" width="40" /></a>
-<!-- Youtube -->
-<a href="https://www.youtube.com/c/rjmendezl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ricardo méndez" height="30" width="40" /></a>
-<!-- Twitter -->
-<a href="https://instagram.com/rjmendezl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rjmendezl" height="30" width="40" /></a>
-</p>
-
 <br>
 
 Checkout my [portfolio](https://rjmendezl.com)!
